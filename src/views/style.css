@@ -1,0 +1,21 @@
+.titulopoke{
+    align-items: center;
+}
+/* 
+h1{
+    animation: typing 2s steps(38) 1s normal both, blink 1s steps(1) infinite;
+}
+
+@keyframes typing{
+    from{
+        widht:0;
+
+    }
+    to{
+        width:60%;
+    }
+}
+
+@keyframes blink{
+    50%{border-color: transparent;}
+} */
